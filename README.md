@@ -64,4 +64,4 @@ O objetivo deste repositório é deixar algumas das minhas aplicações e biblio
 
 ### Reddit
 
-* [/r/pop_os](www.reddit.com/r/pop_os/
+* [/r/pop_os](www.reddit.com/r/pop_os/)
