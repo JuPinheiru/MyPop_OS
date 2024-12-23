@@ -43,6 +43,7 @@ O objetivo deste repositório é deixar algumas das minhas aplicações e biblio
 * [Iotas](https://flathub.org/apps/org.gnome.World.Iotas)  - Aplicativo de  anotações sem distração. 
 * [KenkuFM](https://www.kenku.fm/)  - Rádio online
 * [Spotify](https://open.spotify.com/) - Serviço de streaming de música
+* [Neofetch](https://github.com/dylanaraps/neofetch)) - Informações do sistema através de linha de comando.
      
 
 ### Rede e Virtualização 
