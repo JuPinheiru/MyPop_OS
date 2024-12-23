@@ -9,7 +9,6 @@ O objetivo deste repositório é deixar algumas das minhas aplicações e biblio
 * [Rede e Virtualização](#rede-e-virtualização)
 * [Games](#games)
 * [Outros](#outros)
-* [Fóruns de discussão](#fóruns-de-discussão)
 
 ### Segurança e Privacidade 
 
@@ -60,9 +59,3 @@ O objetivo deste repositório é deixar algumas das minhas aplicações e biblio
 
 * [qbittorrent](https://flathub.org/apps/org.qbittorrent.qBittorrent)  - Cliente de Bittorrent
 * [Zen Browser](https://zen-browser.app/)  - Navegador web
-      
-## Fóruns de discussão
-
-### Reddit
-
-* [/r/pop_os](www.reddit.com/r/pop_os/)
