@@ -21,6 +21,7 @@ O objetivo deste repositório é deixar algumas das minhas aplicações e biblio
 
 * [Alpaca](https://flathub.org/apps/com.jeffser.Alpaca)  - Chat com modelos de AI local.
 * [Remmina](https://flathub.org/apps/org.remmina.Remmina)  - Cliente de acesso remoto a máquinas virtuais
+* [Podcasts](https://flathub.org/apps/org.gnome.Podcasts) - Aplicativo para escutar podcasts
 * [LocalSend](https://flathub.org/apps/org.localsend.localsend_app)  - Aplicativo que permite enviar documentos e mensagens por rede local (lan).
      
 
